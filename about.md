@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the AXRP, pronounced axe-urp, short for the AI X-risk Research Podcast. On this podcast, I ([Daniel Filan](https://danielfilan.com/)), have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential. This podcast launched in 2020.
+This website hosts transcripts of episodes of the AXRP, pronounced axe-urp, short for the AI X-risk Research Podcast. On this podcast, I ([Daniel Filan](https://danielfilan.com/)), have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential. This podcast launched in 2020.
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/) -->
 
