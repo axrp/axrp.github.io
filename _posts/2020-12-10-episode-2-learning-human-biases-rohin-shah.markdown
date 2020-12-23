@@ -373,7 +373,7 @@ You don't want to - sure. But I mean, we already know that - I don't know. Presu
 Fair enough. 
 
 **Daniel Filan:**
-- "Oh, we wouldn't want people to think that eating cake is ever a good idea, or is a human value." You know? Sometimes cake's nice.
+"Oh, we wouldn't want people to think that eating cake is ever a good idea, or is a human value." You know? Sometimes cake's nice.
 
 **Rohin Shah:**
 OK. Sure. I'll stay away from the cake. But I think I wouldn't say that - if you assume perfect optimality in that situation, I think you don't learn something like, "Oh, humans care about having a long lifespan." You learn something more like "Humans don't want to be in violent accidents, but they don't mind dying of whatever it is that cake causes." You can always inject more and more state variables to distinguish behaviours in order to explain why humans seem to not care about their life in one case, but do care about their life in the other case. And that's also a thing you don't want your systems to do. 
