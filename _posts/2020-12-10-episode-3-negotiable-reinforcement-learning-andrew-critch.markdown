@@ -4,7 +4,7 @@ title:  "3 - Negotiable Reinforcement Learning with Andrew Critch"
 date:   2020-12-10 21:05:00 -0800
 categories: episode
 ---
-[Libsyn link](https://axrpodcast.libsyn.com/3-negotiable-reinforcement-learning-with-andrew-critch)
+[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ZmFmZmFkMTctZmJhZC00ODRhLThhZGUtNjk1NGU1ZWI2NDJi)
 
 **Daniel Filan:**
 Hello, everybody. Today, we're going to be talking to Andrew Critch. Andrew Critch got his Ph.D. in algebraic geometry at UC Berkeley. He's worked at Jane Street as an algorithmic trader, the Machine Intelligence Research Institute as a researcher. And he also co-founded the Center for Applied Rationality, where he was a curriculum designer. But currently he's a research scientist at UC Berkeley's Center for Human Compatible A.I. Today, the paper we're going to be talking about is [Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making](https://papers.nips.cc/paper/2018/hash/5b8e4fd39d9786228649a8a8bec4e008-Abstract.html). The authors are Nishant Desai, Andrew Critch and Stuart Russell. Hello Andrew.

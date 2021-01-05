@@ -4,7 +4,7 @@ title:  "2 - Learning Human Biases with Rohin Shah"
 date:   2020-12-10 21:00:00 -0800
 categories: episode
 ---
-[Libsyn link](https://axrpodcast.libsyn.com/2-learning-human-biases-with-rohin-shah)
+[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/OTY2ZDUzNmEtYjRjOC00ODZiLTliZGMtMWQwOTMyMzdhZWY1)
 
 **Daniel Filan:**
 Today, we have Rohin Shah. Rohin is a graduate student here at UC Berkeley's Center for Human Compatable A.I., or CHAI. He's co-authored quite a few different papers and he's soon to be a research scientist at DeepMind. Today, we'll be talking about his paper ["On the Feasibility of Learning, Rather than Assuming, Human Biases for Reward Inference"](https://arxiv.org/abs/1906.09624). This appeared at ICML 2019 and the co-authors were Noah Gundotra, Pieter Abbeel and Anca Dragan. Welcome to the show. 
