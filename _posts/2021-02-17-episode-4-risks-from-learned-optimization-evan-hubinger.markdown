@@ -4,7 +4,7 @@ title:  "4 - Risks from Learned Optimization with Evan Hubinger"
 date:   2021-02-17 15:15:00 -0800
 categories: episode
 ---
-[Google Podcasts link](example.com)
+[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NmY0Y2NjODMtNjc2NS00OWZmLWFmNWUtNWIzOWQxMjZmN2Vm)
 
 **Daniel Filan:**
 Today, I'll be talking to Evan Hubinger about risks from learned optimization. Evan is a research fellow at the Machine Intelligence Research Institute, was previously an intern at OpenAI working on theoretical AI safety research with Paul Christiano. He's done software engineering work at Google, Yelp and Ripple, and also designed the functional programming language, Coconut. We're going to be talking about the paper ["Risks from Learned Optimization in Advanced Machine Learning Systems"](https://arxiv.org/abs/1906.01820). The authors are Evan Hubinger, Chris van Merwijk, Vladimir Mikulik, Joar Skalse and Scott Garrabrant. So Evan, welcome to AXRP.
