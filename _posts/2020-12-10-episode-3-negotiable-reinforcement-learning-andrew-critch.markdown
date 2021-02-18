@@ -6,6 +6,8 @@ categories: episode
 ---
 [Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ZmFmZmFkMTctZmJhZC00ODRhLThhZGUtNjk1NGU1ZWI2NDJi)
 
+This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
+
 **Daniel Filan:**
 Hello, everybody. Today, we're going to be talking to Andrew Critch. Andrew Critch got his Ph.D. in algebraic geometry at UC Berkeley. He's worked at Jane Street as an algorithmic trader, the Machine Intelligence Research Institute as a researcher. And he also co-founded the Center for Applied Rationality, where he was a curriculum designer. But currently he's a research scientist at UC Berkeley's Center for Human Compatible A.I. Today, the paper we're going to be talking about is [Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making](https://papers.nips.cc/paper/2018/hash/5b8e4fd39d9786228649a8a8bec4e008-Abstract.html). The authors are Nishant Desai, Andrew Critch and Stuart Russell. Hello Andrew.
 

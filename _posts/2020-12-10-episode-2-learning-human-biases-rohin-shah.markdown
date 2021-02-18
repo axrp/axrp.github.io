@@ -6,6 +6,8 @@ categories: episode
 ---
 [Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/OTY2ZDUzNmEtYjRjOC00ODZiLTliZGMtMWQwOTMyMzdhZWY1)
 
+This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
+
 **Daniel Filan:**
 Today, we have Rohin Shah. Rohin is a graduate student here at UC Berkeley's Center for Human Compatable A.I., or CHAI. He's co-authored quite a few different papers and he's soon to be a research scientist at DeepMind. Today, we'll be talking about his paper ["On the Feasibility of Learning, Rather than Assuming, Human Biases for Reward Inference"](https://arxiv.org/abs/1906.09624). This appeared at ICML 2019 and the co-authors were Noah Gundotra, Pieter Abbeel and Anca Dragan. Welcome to the show. 
 

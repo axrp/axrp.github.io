@@ -6,6 +6,8 @@ categories: episode
 ---
 [Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ZjgxZWU3YjYtMTdmMS00NmQ1LWExZjctZGY0NGQzZGJlNjBi)
 
+This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
+
 **Daniel Filan:**
 Hello everybody, today I'll be speaking with Adam Gleave. Adam is a grad student at UC Berkeley. He works with the Center for Human Compatible AI, and he's advised by Professor Stuart Russell. Today, Adam and I are going to be talking about the paper he wrote, [Adversarial policies: Attacking deep reinforcement learning](https://arxiv.org/abs/1905.10615). This was presented at ICLR 2020, and the co-authors are Michael Dennis, Cody Wild, Neel Kant, Sergey Levine and Stuart Russell. So, welcome Adam.
 
