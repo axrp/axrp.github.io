@@ -8,6 +8,8 @@ categories: episode
 
 This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
 
+In machine learning, typically optimization is done to produce a model that performs well according to some metric. Today's episode features Evan Hubinger talking about what happens when the learned model itself is doing optimization in order to perform well, how the goals of the learned model could differ from the goals we used to select the learned model, and what would happen if they did differ.
+
 **Daniel Filan:**
 Today, I'll be talking to Evan Hubinger about risks from learned optimization. Evan is a research fellow at the Machine Intelligence Research Institute, was previously an intern at OpenAI working on theoretical AI safety research with Paul Christiano. He's done software engineering work at Google, Yelp and Ripple, and also designed the functional programming language, Coconut. We're going to be talking about the paper ["Risks from Learned Optimization in Advanced Machine Learning Systems"](https://arxiv.org/abs/1906.01820). The authors are Evan Hubinger, Chris van Merwijk, Vladimir Mikulik, Joar Skalse and Scott Garrabrant. So Evan, welcome to AXRP.
 
