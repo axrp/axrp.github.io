@@ -47,7 +47,7 @@ And we want to look at the opposite of this. We want to look at the situation in
 Cool, cool. So one question I have about this paper is, you're thinking about optimization, where's optimization happening, what's it doing. What's optimization?
 
 **Evan Hubinger:**
-Yeah, so that's a great question. And I think this is one of the sorts of things things that is notoriously difficult to define, and there's a lot of definitions that have existed out there, with different people trying to define it in different ways. You have things like Daniel Dennett's intentional stance, you have things like Alex Flint recently had [a post](https://www.alignmentforum.org/posts/znfkdCoHMANwqc2WE/the-ground-of-optimization-1) on the Alignment Forum going into this.
+Yeah, so that's a great question. And I think this is one of the sorts of things that is notoriously difficult to define, and there's a lot of definitions that have existed out there, with different people trying to define it in different ways. You have things like Daniel Dennett's intentional stance, you have things like Alex Flint recently had [a post](https://www.alignmentforum.org/posts/znfkdCoHMANwqc2WE/the-ground-of-optimization-1) on the Alignment Forum going into this.
 
 **Evan Hubinger:**
 In risks from learned optimization, we define optimization in a very mechanistic way where we're like, "Look, a system is an optimizer if it is internally doing some sort of search according to some objective, searching through a space of possible plans, strategies, policies, actions, whatever."
