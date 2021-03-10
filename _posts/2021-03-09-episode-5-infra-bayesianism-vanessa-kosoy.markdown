@@ -340,7 +340,7 @@ But by the way, when you started asking this question, it made me think about so
 Yeah. I guess now that listeners have heard the basics of or the idea of what infra-Bayesianism is supposed to be about, and heard some tantalizing things about a spooky update rule, I encourage them to have a look at the posts. Maybe it'll be a paper someday. If listeners enjoyed this podcast and they're interested in following you and your work more, what should they do in order to keep up to date?
 
 **Vanessa Kosoy:**
-The easiest way to follow me is just to follow my user on [Alignment Forum](https://www.alignmentforum.org/users/vanessa-kosoy) or on [Less Wrong](https://www.lesswrong.com/users/vanessa-kosoy), which is just called Vanessa Kosoy, and of course if someone wants to discuss something specific with me then they're always welcome to send me an email, and my email address is also very easy to remember. It's <vanessa.kosoy@intelligence.org>.
+The easiest way to follow me is just to follow my user on [Alignment Forum](https://www.alignmentforum.org/users/vanessa-kosoy) or on [LessWrong](https://www.lesswrong.com/users/vanessa-kosoy), which is just called Vanessa Kosoy, and of course if someone wants to discuss something specific with me then they're always welcome to send me an email, and my email address is also very easy to remember. It's <vanessa.kosoy@intelligence.org>.
 
 **Daniel Filan:**
 All right. Well, thanks for talking with me today, and to the listeners, I hope you join us again next time.
