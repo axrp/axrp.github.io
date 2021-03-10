@@ -4,7 +4,7 @@ title:  "5 - Infra-Bayesianism with Vanessa Kosoy"
 date:   2021-03-09 20:30:00 -0800
 categories: episode
 ---
-[Google Podcasts link](example.com)
+[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/YjExOTA0NmItMDBmZC00Yzc5LTgwMGYtOTRkNDkyMzcwZDk3)
 
 This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
 
