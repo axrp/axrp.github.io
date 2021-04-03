@@ -155,7 +155,7 @@ And so it realizes that the correct instrumental strategy to be able to get the 
 And this is particularly concerning because if you're in a deceptive alignment situation, the adversarial training set up no longer really works, because if you think about a deceptive aligned system, it's going to be actively looking for any possible differences between the training distribution and the deployment distribution to let it know that now it's in a situation where it can do what it wants and it doesn't have to be as afraid of corrective feedback. And so there's a lot of examples of the sorts of things that a deceptive model might be looking for.
 
 **Evan Hubinger:**
-Paul Christiano has this one example that I think is fun, and it's not necessarily realistic, but it just goes to show the way in which this can happen, which is this RSA-2048 example. So the RSA-2048 example goes like this. So RSA-2048 is this really large pseudoprime. There is this challenge to try to factor RSA-2048.
+Paul Christiano has this one example that I think is fun, and it's not necessarily realistic, but it just goes to show the way in which this can happen, which is this RSA-2048 example. So the RSA-2048 example goes like this. So RSA-2048 is this really large pseudoprime [sic: semi-prime]. There is this challenge to try to factor RSA-2048.
 
 **Daniel Filan:**
 Sorry, what's a pseudoprime?
