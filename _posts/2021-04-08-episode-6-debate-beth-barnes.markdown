@@ -5,7 +5,7 @@ date: 2021-04-08 17:15 -0400
 categories: episode
 ---
 
-Google Podcasts link
+[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NGY3ZTBiMzgtYWM5Ny00NDZmLTgxZmQtOTc1M2VhMGVkMzQz)
 
 This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
 
