@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6 - Debate with Beth Barnes"
+title: "6 - Debate and Imitative Generalization with Beth Barnes"
 date: 2021-04-08 17:15 -0400
 categories: episode
 ---
