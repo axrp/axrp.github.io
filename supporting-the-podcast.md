@@ -16,4 +16,4 @@ Finally, you can also support the podcast financially. Currently, this podcast i
 - Litecoin: ltc1qnvkcpzy55ux30t06fqjc0nk6na4v7hdlr7cc8a
 - Dogecoin: DC4UwMs35DtbW7xtvuzhiGVG1BHjZLjawy
 - Monero: 83ZCYKRc4xSguXiVYiFc5FG4uN9t421zXB4tcMMMthMQ1dt1gy2ubER91tViu9wt1jQvRFUCSwRi9P2E9EfJ8ew16fJvyvW
-- Tezos: tz1hZma6bB9469ErcLRnKcqksyoZfCfdsHd1
+- Tezos: axrpodcast.tez or tz1hZma6bB9469ErcLRnKcqksyoZfCfdsHd1
