@@ -8,7 +8,7 @@ There are a few ways to support the podcast. The most simple one is to subscribe
 
 Another way is to email me at <feedback@axrp.net> and tell me about what you think about the podcast and how it could be better. The current listener base is small enough that your voice can really be informative about how I can improve the show!
 
-Finally, you can also support the podcast financially. Currently, this podcast is self-funded, and while it doesn't cost a huge amount to run it also doesn't cost nothing. While you shouldn't feel like you have to contribute, it would be appreciated. Below are some ways I can receive money:
+Finally, you can also support the podcast financially. Currently, the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future) covers the costs of making these episodes. That being said, I also spend many hours per episode that are not paid for by that money, so any contributions would be appreciated. Below are some ways I can receive money:
 - [Paypal](https://www.paypal.com/paypalme/dfilan)
 - Bitcoin: bc1qsqvsa7vj2247pl2g37n89t0cvqj4jrkcavup22
 - Ethereum: axrpodcast.eth or 0x14c84AdA768A3243651298D09f9C5d539d033f1B
