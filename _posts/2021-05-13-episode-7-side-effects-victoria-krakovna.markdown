@@ -5,6 +5,8 @@ date: 2021-05-13 21:00:00 -0800
 categories: episode
 ---
 
+[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ZTQ1NjdlMWEtMmQzNC00Y2FlLThlZDMtYzgwZWJmNzRjMWFj)
+
 This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
 
 One way of thinking about how AI might pose an existential threat is by taking drastic actions to maximize its achievement of some objective function, such as taking control of the power supply or the world's computers. This might suggest a mitigation strategy of minimizing the degree to which AI systems have large effects on the world that absolutely necessary for achieving their objective. In this episode, Victoria Krakovna talks about her research on quantifying and minimizing side effects. Topics discussed include how one goes about defining side effects and the difficulties in doing so, her work using relative reachability and the ability to achieve future tasks as side effects measures, and what she thinks the open problems and difficulties are.
