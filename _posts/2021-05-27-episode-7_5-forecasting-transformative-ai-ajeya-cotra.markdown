@@ -11,6 +11,8 @@ This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Rese
 
 If you want to shape the development and forecast the consequences of powerful AI technology, it's important to know when it might appear. In this episode, I talk to Ajeya Cotra about her report "Forecasting Transformative AI from Biological Anchors" which aims to build a probabilistic model to answer this question. We talk about a variety of topics, including the structure of the model, what the most important parts are to get right, how the estimates should shape our behaviour, and Ajeya's current work at Open Philanthropy and perspective on the AI x-risk landscape. Unfortunately, there was a problem with the recording of our interview, so we weren't able to release it in audio form, but you can read this transcript of the whole conversation.
 
+Note that content surrounded by [square brackets] was added at the time of transcription.
+
 **Daniel Filan:**
 Hello everybody, today I'll be speaking to Ajeya Cotra, a senior research analyst at Open Philanthropy, which is a grant-making organization that supports work to reduce AI existential risk [among other things]. Before joining Open Philanthropy she studied electrical engineering and computer science at UC Berkeley, where she founded the Effective Altruists of Berkeley student group, and also taught a course on effective altruism. Today we'll be talking about [her work on forecasting when transformative AI might be developed](https://drive.google.com/drive/u/1/folders/15ArhEPZSTYU8f012bs6ehPS6-xmhtBPP), and how that might influence grant recommendations. Ajeya, welcome to the show.
 
