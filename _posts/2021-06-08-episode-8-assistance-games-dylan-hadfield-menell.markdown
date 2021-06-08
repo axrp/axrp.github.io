@@ -901,7 +901,7 @@ All right. Well, thanks for appearing on the podcast.
 Thanks so much. It was a real pleasure to be here.
 
 **Daniel Filan:**
-And the listeners, I hope you'll join us again.
+And to the listeners, I hope you'll join us again.
 
 **Daniel Filan:**
 This episode is edited by Finan Adamson. The financial costs of making this episode are covered by a grant from the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future). To read a transcript of this episode, or to learn how to support the podcast, you can visit [axrp.net](https://axrp.net/). Finally, if you have any feedback about this podcast, you can email me at <feedback@axrp.net>.
