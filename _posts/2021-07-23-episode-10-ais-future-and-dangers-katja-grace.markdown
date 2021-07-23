@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 - AI's Future and Impacts with Katja Grace"
-date: 2021-07-23 14:57 -0700
+date: 2021-07-23 15:00 -0700
 categories: episode
 ---
 
@@ -111,7 +111,7 @@ I guess maybe what I want to get at is I think a lot of people when trying to th
 I think it's not clear to me. It might be a combination of factors where one thing where I think maybe I'm more right is just, I think maybe people don't have a tendency when they talk about abstract things to check them empirically. I guess a case where I feel pretty good about my position is, well maybe this isn't AI versus looking at other things, it's more like abstract arguments versus looking at a mixture of AI and other things. But it seems like people say things like probably AI progress goes for a while and then it reaches mediocre human level, and then it's rapidly superhuman. And that also this is what we see in other narrow things. As far as I can tell, it's not what we see in other narrow things. You can look at lots of narrow things and see that it often takes decades to get through the human range. And I haven't systematically looked at all of them or something, but at a glance it looks like it's at least quite common for it to take decades.
 
 **Katja Grace:**
-Chess is a good example where as soon as we started making AI to play chess it was roughly at amateur level and then it took, I don't know, 50 years or something to get to superhuman level, and it was sort of a gradual progress to there. And so as far as I can tell people are still saying that progress tends to jump quickly from subhuman to superhuman and I'm not quite sure why that is, but checking what actually happens seems better. I don't know what the counter argument would be, but I think there's another thing which is, I'm not an AI expert in the sense that my background is not in machine learning or something. I mean I know a bit about it, but my background is in human ecology and philosophy. So I'm less well equipped to do the very AI intensive type projects or to oversee other people doing them. So I think that's one reason that we tend to do other more historical things too.
+Chess is a good example where as soon as we started making AI to play chess it was roughly at amateur level and then it took, I don't know, 50 years or something to get to superhuman level, and it was sort of a gradual progress to there. And so as far as I can tell people are still saying that progress tends to jump quickly from subhuman to superhuman and I'm not quite sure why that is, but checking what actually happens seems better. I don't know what the counter argument would be. But I think there's another thing which is, I'm not an AI expert in the sense that my background is not in machine learning or something. I mean I know a bit about it, but my background is in human ecology and philosophy. So I'm less well equipped to do the very AI intensive type projects or to oversee other people doing them. So I think that's one reason that we tend to do other more historical things too.
 
 ## Results of surveying AI researchers <a name="survey-results"></a>
 
@@ -1006,7 +1006,7 @@ I'm pretty unsure, and places where it seems like people are wrong, I definitely
 I mean, I think people write a lot of stuff. It's just about sort of taking a bunch of things for granted.
 
 **Katja Grace:**
-Or maybe the things that were originally laying out the things that are being taken for granted, were not super careful, more evocative, which is maybe the right thing for evoking things. That was what was needed. But yeah, I guess I'm more keen to see things laid out clearly.
+Or maybe the things that were originally laying out the things that are being taken for granted, were not super careful, more evocative, which is maybe the right thing for evoking things. Maybe that was what was needed. But yeah, I guess I'm more keen to see things laid out clearly.
 
 ## How to follow Katja's and AI Impacts' work <a name="following-katja-ai-impacts"></a>
 
