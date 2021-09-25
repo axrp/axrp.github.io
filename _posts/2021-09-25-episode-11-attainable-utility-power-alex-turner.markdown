@@ -9,7 +9,7 @@ categories: episode
 
 This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
 
-Many scary stories about AI involve an AI system deceiving and subjugating humans in order to gain the ability to achieve its goals without us stopping it. This episode's guest, Alex Turner, will tell us about his research analyzing the notions of "attainable utility" and "power" that underly these stories, so that we can better evaluate how likely they are and how to prevent them.
+Many scary stories about AI involve an AI system deceiving and subjugating humans in order to gain the ability to achieve its goals without us stopping it. This episode's guest, Alex Turner, will tell us about his research analyzing the notions of "attainable utility" and "power" that underlie these stories, so that we can better evaluate how likely they are and how to prevent them.
 
 Topics we discuss:
 - [Side effects minimization](#side-effects-minimization)
