@@ -704,4 +704,4 @@ All right. Well, thanks for joining me today. It was a good conversation.
 Yeah. Thanks so much for having me.
 
 **Daniel Filan:**
-This episode is edited by Finan Adamson, and Justis Mills helped with transcription. The financial costs of making this episode are covered by a grant from the Long Term Future Fund. To read a transcript of this episode, or to learn how to support the podcast, you can visit axrp.net - that's A X R P dot net. Finally, if you have any feedback about this podcast, you can email me at feedback@axrp.net.
+This episode is edited by Finan Adamson, and Justis Mills helped with transcription. The financial costs of making this episode are covered by a grant from the Long Term Future Fund. To read a transcript of this episode, or to learn how to support the podcast, you can visit [axrp.net](https://axrp.net/). Finally, if you have any feedback about this podcast, you can email me at feedback@axrp.net.
