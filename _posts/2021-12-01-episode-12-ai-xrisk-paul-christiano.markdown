@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "12 - Why AI Existential Risk with Paul Christiano"
+title: "12 - AI Existential Risk with Paul Christiano"
 date: 2021-12-01 18:10 -0800
 categories: episode
 ---
