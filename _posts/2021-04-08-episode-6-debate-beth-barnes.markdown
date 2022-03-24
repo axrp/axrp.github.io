@@ -792,7 +792,7 @@ I'm trying to figure out what exactly I should be doing. Currently, I'm being a 
 Sure. If people are interested in following you or your research, or exciting things you're putting out, how should they do that?
 
 **Beth Barnes:**
-Yeah. Most of the things will probably be [alignment forum](https://www.alignmentforum.org/) posts.
+Yeah. Most of the things will probably be [Alignment Forum](https://www.alignmentforum.org/) posts.
 
 **Daniel Filan:**
 All right. Well, thanks for appearing on the show and to the listeners. I hope you join us again.
