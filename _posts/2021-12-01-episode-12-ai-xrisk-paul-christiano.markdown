@@ -1244,4 +1244,4 @@ I also don't know when it's appearing. We did date ourselves to [infrastructure 
 Thanks for having me.
 
 **Daniel Filan:**
-This episode is edited by Finan Adamson, and Justis Mills helped with transcription. The financial costs of making this episode are covered by a grant from the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future). To read a transcript of this episode, or to learn how to support the podcast, you can visit [axrp.net](https://axrp.net/). Finally, if you have any feedback about this podcast, you can email me at feedback@axrp.net.
+This episode is edited by Finan Adamson, and Justis Mills helped with transcription. The financial costs of making this episode are covered by a grant from the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future). To read a transcript of this episode, or to learn how to support the podcast, you can visit [axrp.net](https://axrp.net/). Finally, if you have any feedback about this podcast, you can email me at <feedback@axrp.net>.
