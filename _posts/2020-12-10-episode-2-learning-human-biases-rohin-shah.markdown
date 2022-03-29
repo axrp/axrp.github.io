@@ -6,8 +6,6 @@ categories: episode
 ---
 [Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/OTY2ZDUzNmEtYjRjOC00ODZiLTliZGMtMWQwOTMyMzdhZWY1)
 
-This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
-
 One approach to creating useful AI systems is to watch humans doing a task, infer what they're trying to do, and then try to do that well. The simplest way to infer what the humans are trying to do is to assume there's one goal that they share, and that they're optimally achieving the goal. This has the problem that humans aren't actually optimal at achieving the goals they pursue. We could instead code in the exact way in which humans behave suboptimally, except that we don't know that either. In this episode, I talk with Rohin Shah about his paper about learning the ways in which humans are suboptimal at the same time as learning what goals they pursue: why it's hard, how he tried to do it, how well he did, and why it matters.
 
 **Daniel Filan:**

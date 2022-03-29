@@ -6,8 +6,6 @@ categories: episode
 ---
 [Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NmY0Y2NjODMtNjc2NS00OWZmLWFmNWUtNWIzOWQxMjZmN2Vm)
 
-This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
-
 In machine learning, typically optimization is done to produce a model that performs well according to some metric. Today's episode features Evan Hubinger talking about what happens when the learned model itself is doing optimization in order to perform well, how the goals of the learned model could differ from the goals we used to select the learned model, and what would happen if they did differ.
 
 **Daniel Filan:**

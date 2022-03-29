@@ -6,8 +6,6 @@ categories: episode
 ---
 [Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/YjExOTA0NmItMDBmZC00Yzc5LTgwMGYtOTRkNDkyMzcwZDk3)
 
-This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
-
 The theory of sequential decision-making has a problem: how can we deal with situations where we have some hypotheses about the environment we're acting in, but its exact form might be outside the range of possibilities we can possibly consider? Relatedly, how do we deal with situations where the environment can simulate what we'll do in the future, and put us in better or worse situations now depending on what we'll do then? Today's episode features Vanessa Kosoy talking about infra-Bayesianism, the mathematical framework she developed with Alex Appel that modifies Bayesian decision theory to succeed in these types of situations.
 
 Before the interview, I have a quick announcement to make. In order to make this podcast better, I've released a survey to get feedback from you listeners. If you have a few minutes to spare, I'd greatly appreciate it if you could fill it out - you can access it [here](https://forms.gle/LFKi1whWASaw3bTY8). Now, on to the main show.

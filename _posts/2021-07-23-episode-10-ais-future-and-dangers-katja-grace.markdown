@@ -7,8 +7,6 @@ categories: episode
 
 [Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/MDQ5OGFmYzgtMWUzNi00NTVkLWI3NjAtYWQ4ZmEyMDRkNTNh)
 
-This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
-
 When going about trying to ensure that AI does not cause an existential catastrophe, it's likely important to understand how AI will develop in the future, and why exactly it might or might not cause such a catastrophe. In this episode, I interview Katja Grace, researcher at AI Impacts, who's done work surveying AI researchers about when they expect superhuman AI to be reached, collecting data about how rapidly AI tends to progress, and thinking about the weak points in arguments that AI could be catastrophic for humanity.
 
 Topics we discuss:

@@ -7,8 +7,6 @@ categories: episode
 
 [Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NTU4OTk4MTctNGY4NS00OWRkLThkYjMtMzdlMmVmNGJmZjZi)
 
-This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
-
 How should we think about the technical problem of building smarter-than-human AI that does what we want? When and how should AI systems defer to us? Should they have their own goals, and how should those goals be managed? In this episode, Dylan Hadfield-Menell talks about his work on assistance games that formalizes these questions. The first couple years of my PhD program included many long conversations with Dylan that helped shape how I view AI x-risk research, so it was great to have another one in the form of a recorded interview.
 
 **Daniel Filan:**

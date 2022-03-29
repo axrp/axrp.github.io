@@ -7,8 +7,6 @@ categories: episode
 
 [Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NGY3ZTBiMzgtYWM5Ny00NDZmLTgxZmQtOTc1M2VhMGVkMzQz)
 
-This podcast is called AXRP, pronounced axe-urp and short for the AI X-risk Research Podcast. Here, I ([Daniel Filan](https://danielfilan.com/)) have conversations with researchers about their papers. We discuss the paper and hopefully get a sense of why it's been written and how it might reduce the risk of artificial intelligence causing an [existential catastrophe](https://en.wikipedia.org/wiki/Global_catastrophic_risk): that is, permanently and drastically curtailing humanity's future potential.
-
 One proposal to train AIs that can be useful is to have ML models debate each other about the answer to a human-provided question, where the human judges which side has won. In this episode, I talk with Beth Barnes about her thoughts on the pros and cons of this strategy, what she learned from seeing how humans behaved in debate protocols, and how a technique called imitative generalization can augment debate. Those who are already quite familiar with the basic proposal might want to skip past the explanation of debate to 13:00, "what problems does it solve and does it not solve".
 
 **Daniel Filan:**
