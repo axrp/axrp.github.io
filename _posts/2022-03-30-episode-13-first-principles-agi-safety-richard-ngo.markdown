@@ -21,7 +21,7 @@ Topics we discuss:
   - [Robustness of the agency abstraction](#agency-abstraction-robustness)
   - [Pivotal acts](#pivotal-acts)
 - [AGI safety concepts](#agi-safety-concepts)
-  - [AI alignment](#ai-alignment)
+  - [Alignment](#ai-alignment)
   - [Transparency](#transparency)
   - [Cooperation](#cooperation)
 - [Optima and selection pressures](#optima-selection-pressures)
@@ -287,7 +287,7 @@ I think this partly ties back to the thing I was saying before about like the co
 
 ## AGI safety concepts <a name="agi-safety-concepts"></a>
 
-### AI alignment <a name="ai-alignment"></a>
+### Alignment <a name="ai-alignment"></a>
 
 **Daniel Filan:**
 Let's move on to this thing that we've mentioned a couple of times now called alignment. First of all, what do you mean by "alignment" or, "misaligned AI systems"?
