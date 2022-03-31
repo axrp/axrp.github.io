@@ -34,7 +34,7 @@ Topics we discuss:
 - [Following Richard's work](#following-richards-work)
 
 **Daniel Filan:**
-Hello, everybody. Today, I'll be speaking with Richard Ngo. Richard is a researcher at OpenAI, where he works on AI governance and forecasting. He also was a research engineer at DeepMind, and designed the course ["AI Safety Fundamentals"](https://www.eacambridge.org/agi-safety-fundamentals). We'll be discussing his report, [AGI Safety from First Principles](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ), as well as his [debate with Eliezer Yudkowsky](https://www.alignmentforum.org/s/n945eovrA3oDueqtq) about the difficulty of AI alignment. For links to what we're discussing, you can check the description of this episode, and you can read the transcripts at [axrp.net](https://axrp.net/). Well, Richard, welcome to the show.
+Hello, everybody. Today, I'll be speaking with Richard Ngo. Richard is a researcher at OpenAI, where he works on AI governance and forecasting. He also was a research engineer at DeepMind, and designed the course ["AGI Safety Fundamentals"](https://www.eacambridge.org/agi-safety-fundamentals). We'll be discussing his report, [AGI Safety from First Principles](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ), as well as his [debate with Eliezer Yudkowsky](https://www.alignmentforum.org/s/n945eovrA3oDueqtq) about the difficulty of AI alignment. For links to what we're discussing, you can check the description of this episode, and you can read the transcripts at [axrp.net](https://axrp.net/). Well, Richard, welcome to the show.
 
 **Richard Ngo:**
 Thanks so much for having me.
