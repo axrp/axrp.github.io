@@ -5,6 +5,8 @@ date: 2022-05-22 22:30 -0700
 categories: episode
 ---
 
+[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/MmJkNTgzMWEtZDFkMS00MWEwLWE4NzctMzg3OTcxMGVlYjZj)
+
 Why does anybody care about natural abstractions? Do they somehow relate to math, or value learning? How do E. coli bacteria find sources of sugar? All these questions and more will be answered in this interview with John Wentworth, where we talk about his research plan of understanding agency via natural abstractions.
 
 Topics we discuss:
