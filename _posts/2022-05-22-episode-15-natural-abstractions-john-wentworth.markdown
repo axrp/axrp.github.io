@@ -71,7 +71,7 @@ Yes. Basically it tracks the sugar concentration over time. If it's trending upw
 Sure. So how could a single-cell organism do that?
 
 **John Wentworth:**
-I mean it's got 30,000 genes. There's a lot of stuff going on in there. The specifics in this case, what you have is there's this little sensor for sugar and there's a few other things it also keeps track of. It's this molecule on the surface of the cell. It will attach phosphate groups to that molecule and it will detach those phosphate groups at a regular rate and attach them whenever it senses a sugar molecule or whatever.
+I mean it's got 30,000 genes [correction: E. coli has ~4,400 genes, humans have ~25,000]. There's a lot of stuff going on in there. The specifics in this case, what you have is there's this little sensor for sugar and there's a few other things it also keeps track of. It's this molecule on the surface of the cell. It will attach phosphate groups to that molecule and it will detach those phosphate groups at a regular rate and attach them whenever it senses a sugar molecule or whatever.
 
 **John Wentworth:**
 So you end up with the equilibrium number of phosphate molecules on there tracking what's going on with the sugar outside. Then there's an adaptation mechanism, so that if the sugar concentration is just staying high, the number of phosphates on each of these molecules will drop back to baseline. But if the sugar concentration is increasing over time, the number of phosphates will stay at a high level. If it's decreasing over time, the number of phosphates will stay at a low level.
@@ -824,7 +824,7 @@ Let's forget about bits for a minute and talk about, let's say, atoms. We'll say
 I guess a couple moles, which is-
 
 **John Wentworth:**
-Probably a bit more than that. I would guess like tens of moles.
+Probably a bit more than that. I would guess like tens of moles [correction: there are thousands of moles of water in a typical human body].
 
 **Daniel Filan:**
 Okay.
