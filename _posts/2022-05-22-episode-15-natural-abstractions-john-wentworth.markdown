@@ -1215,7 +1215,7 @@ Cool. Cool. Well, thanks for joining me on this show.
 Thank you.
 
 **Daniel Filan:**
-And to the listeners. I hope this was valuable.
+And to the listeners, I hope this was valuable.
 
 **Daniel Filan:**
 This episode is edited by Jack Garrett. The opening and closing themes are also by Jack Garrett. The financial costs of making this episode are covered by a grant from the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future). To read a transcript of this episode, or to learn how to support the podcast, you can visit [axrp.net](https://axrp.net/). Finally, if you have any feedback about this podcast, you can email me at <feedback@axrp.net>.
