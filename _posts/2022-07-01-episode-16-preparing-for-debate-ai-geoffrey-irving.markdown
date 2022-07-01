@@ -7,7 +7,7 @@ categories: episode
 
 how to get ai safety via debate necessary bits finding errors backing up info uncertainty for active learning
 
-Many people in the AI alignment space have heard of AI safety via debate - check out [this AXRP episode](https://axrp.net/episode/2021/04/08/episode-6-debate-beth-barnes.html) if you need a primer. But how do we get language models to the stage where they can usefully implement debate? Today, I talk to Geoffrey Irving about the role of language models in AI safety, as well as three projects he's done that get us closer to making debate happen: using language models to find flaws in themselves, getting language models to back up claims they make with citations, and figuring out how uncertain language models should be about the quality of various answers.
+Many people in the AI alignment space have heard of AI safety via debate - check out [episode 6 of AXRP](https://axrp.net/episode/2021/04/08/episode-6-debate-beth-barnes.html) if you need a primer. But how do we get language models to the stage where they can usefully implement debate? Today, I talk to Geoffrey Irving about the role of language models in AI safety, as well as three projects he's done that get us closer to making debate happen: using language models to find flaws in themselves, getting language models to back up claims they make with citations, and figuring out how uncertain language models should be about the quality of various answers.
 
 Topics we discuss:
 - [Status update on AI safety via debate](#ai-safety-via-debate-update)
