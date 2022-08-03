@@ -10,7 +10,7 @@ Another way is to email me at <feedback@axrp.net> and tell me about what you thi
 
 Finally, you can also support the podcast financially. Currently, the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future) covers the costs of making these episodes. That being said, I also spend many hours per episode that are not paid for by that money, so any contributions would be appreciated. Below are some ways I can receive money:
 - [Paypal](https://www.paypal.com/paypalme/dfilan)
-- Bitcoin: bc1qsqvsa7vj2247pl2g37n89t0cvqj4jrkcavup22
+- Bitcoin: bc1qqf8v0c7ypj5dnj294a0h26u24je70qujl0y7nc
 - Ethereum: axrpodcast.eth or 0x14c84AdA768A3243651298D09f9C5d539d033f1B
 - Solana: axrpodcast.sol or AGsVHjKv8Lp4d9am53waR7Rpw8EfzuebFWC2y3WEqmzK
 - Litecoin: ltc1qnvkcpzy55ux30t06fqjc0nk6na4v7hdlr7cc8a
