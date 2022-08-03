@@ -13,7 +13,6 @@ Finally, you can also support the podcast financially. Currently, the [Long Term
 - Bitcoin: bc1qsqvsa7vj2247pl2g37n89t0cvqj4jrkcavup22
 - Ethereum: axrpodcast.eth or 0x14c84AdA768A3243651298D09f9C5d539d033f1B
 - Solana: axrpodcast.sol or AGsVHjKv8Lp4d9am53waR7Rpw8EfzuebFWC2y3WEqmzK
-- Ripple: rPSpPikgUxtE7Hiatz9QNFFpqJJcjvpwAD
 - Litecoin: ltc1qnvkcpzy55ux30t06fqjc0nk6na4v7hdlr7cc8a
 - Dogecoin: DC4UwMs35DtbW7xtvuzhiGVG1BHjZLjawy
 - Monero: 83ZCYKRc4xSguXiVYiFc5FG4uN9t421zXB4tcMMMthMQ1dt1gy2ubER91tViu9wt1jQvRFUCSwRi9P2E9EfJ8ew16fJvyvW
