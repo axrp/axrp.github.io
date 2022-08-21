@@ -5,7 +5,9 @@ date: 2022-08-21 16:45 -0700
 categories: episode
 ---
 
-Sometimes, people talk about making AI systems safe by taking examples where they fail and training them to do well on those. But how can we actually do this well, especially when we can't use a computer program to say what a 'failure' is? In this episode, I speak with Daniel Ziegler about his research group's efforts to try doing this with present-day language models, and what they learned. Listeners beware: this episode contains a spoiler for the Animorphs franchise around minute 41 (in the 'Fanfiction' section of the transcript).
+Sometimes, people talk about making AI systems safe by taking examples where they fail and training them to do well on those. But how can we actually do this well, especially when we can't use a computer program to say what a 'failure' is? In this episode, I speak with Daniel Ziegler about his research group's efforts to try doing this with present-day language models, and what they learned. 
+
+Listeners beware: this episode contains a spoiler for the Animorphs franchise around minute 41 (in the 'Fanfiction' section of the transcript).
 
 Topics we discuss:
 - [Summary of the paper](#summary)
