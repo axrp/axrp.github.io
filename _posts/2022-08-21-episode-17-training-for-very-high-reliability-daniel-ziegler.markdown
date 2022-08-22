@@ -23,7 +23,7 @@ Topics we discuss:
 - [Future work](#future-work)
 - [About Redwood Research](#about-redwood)
 
-_In this transcript, to improve readability, first names are omitted from speaker tags.__
+_In this transcript, to improve readability, first names are omitted from speaker tags._
 
 **Filan:**
 Hello everybody. Today, I'll be speaking with Daniel Ziegler. After spending time as an ML engineer on the alignment team at OpenAI, Daniel is now the lead of the adversarial training team at [Redwood Research](https://www.redwoodresearch.org/). In this episode, we'll be speaking about the paper ['Adversarial Training for High-stakes Reliability'](https://arxiv.org/abs/2205.01663), on which he's the first author. For links to what we're discussing, you can check the description of this episode, and you can read the transcript at axrp.net. Welcome to the show, Daniel.
