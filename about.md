@@ -10,6 +10,8 @@ This podcast launched in December 2020. [Finan Adamson](https://www.finanadamson
 
 You can subscribe to AXRP by searching for it in your favourite podcast provider. To receive transcripts, you can subscribe to this website's [RSS feed](https://axrp.net/feed.xml). You can also follow AXRP on twitter at [@AXRPodcast](https://twitter.com/AXRPodcast).
 
+If you like AXRP, you might like its sister podcast, [The Filan Cabinet](https://thefilancabinet.com/), where I interview people about a wide range of topics I'm interested in.
+
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/) -->
 
 <!-- You can find the source code for Minima at GitHub: -->
