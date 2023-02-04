@@ -1058,7 +1058,7 @@ And are much better than if they don't. Yeah. So the interesting thing there is 
 
 Anyway. So the key thing here is just: look at the lines of evidence and say, do these feel diverse to me? And I mean, looking at them, they're pretty diverse.
 
-## Evolution in loss-space <a name="loss-space-evolution"></a>
+### Evolution in loss-space <a name="loss-space-evolution"></a>
 
 **Daniel Filan:**
 All right, cool. Next, I have a methodological question about one particular part of the paper that I found kind of interesting.
