@@ -479,7 +479,7 @@ Yeah. Well, there are a lot of interesting things I want to do with this work, l
 **Vanessa Kosoy:**
 And those other intelligent agents can actually cause your AI to do bad things or cause your AI to do things that they want it to do. And this scenario is a kind of failure of Aumann agreement in the sense that the AI sees the same evidence as you just from a different vantage point. But from the AI vantage point, it reaches the conclusion that it's in a simulation, even though from your vantage point, you should not have reached the conclusion that it's in a simulation. And I kind of conjecture that in infra-Bayesian physicalism you can prove some kind of an Aumann agreement-type theorem. That different agents inhabiting the same universe have this Aumann agreement because they don't privilege their subjective points of view any more. And therefore this kind of failures cannot happen.
 
-## The production of infra-Bayesianism research <a name="ib-research-production"
+## The production of infra-Bayesianism research <a name="ib-research-production"></a>
 
 **Daniel Filan:**
 Okay. That's interesting. So I guess another question is apart from follow ups, are there any complements to this line of research that you're excited by? So things other people are doing that work really nicely with infra-Bayesianism or infra-Bayesian physicalism.
