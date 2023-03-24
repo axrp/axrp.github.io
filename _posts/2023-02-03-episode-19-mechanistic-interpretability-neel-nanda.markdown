@@ -1356,7 +1356,7 @@ So the way to think about it is: modular addition [modulo N] is fundamentally ab
 
 And you can represent this with cos(2 pi a / N) and sin(2 pi a / N), which kind of parametrize that rotation. And you can take the two inputs a and b, rotate by 2 pi a / N and 2 pi b / N, and you can compose them to get the rotation 2 pi (a + b) / N.
 
-And this is now the sum, but it's also the sum mod N because it wraps around the circle if you get too big, and you can compute this by just taking multiplication of pairs of the trig terms and adding them using trig identities. And then to get the cth logit, you rotate backwards by 2 pi c / N to get a rotation by 2 pi (a + b - c) / N. And you like project this onto the axis of the circle. And this is one, if you've done nothing, i.e. c = a + b mod N, and it's less than one if you've done some rotation. So this is biggest at the correct answer.
+And this is now the sum, but it's also the sum mod N because it wraps around the circle if you get too big, and you can compute this by just taking multiplication of pairs of the trig terms and adding them using trig identities. And then to get the cth logit, you rotate backwards by 2 pi c / N to get a rotation by 2 pi (a + b - c) / N. And you project this onto the axis of the circle. And this is one, if you've done nothing, i.e. c = a + b mod N, and it's less than one if you've done some rotation. So this is biggest at the correct answer.
 
 **Daniel Filan:**
 Yep. And that's the basis of this algorithm. But you do it at different speeds of moving around the circle, right?
