@@ -342,7 +342,7 @@ It is, yes.
 Because otherwise you'd be able to just see, like, oh, it's-
 
 **Scott Aaronson:**
-Exactly. In fact, we have a pseudorandom function that maps the N-gram to, let's say, a real number from zero to one. Let's say we call that real number $r_i$ for each possible choice $i$ of the next token. And then let's say that GPT has told us that the $i$th token should be chosen with probability $p_i$.
+Exactly. In fact, we have a pseudorandom function that maps the N-gram to, let's say, a real number from zero to one. Let's say we call that real number r<sub>i</sub> for each possible choice $i$ of the next token. And then let's say that GPT has told us that the $i$th token should be chosen with probability $p_i$.
 
 And so now we have these two sets of numbers, if there are $k$ possible tokens, call them $p_1$ up to $p_k$, which are probabilities, and $r_1$ up to $r_k$, which are pseudorandom numbers from zero to one. And now we just want a rule for which token to pick and now it's just actually a calculus problem. We can write down the properties we want and then work backwards to find a rule that would give us those properties. And the right rule turns out to be so simple that I can just tell it to you right now. Okay?
 
