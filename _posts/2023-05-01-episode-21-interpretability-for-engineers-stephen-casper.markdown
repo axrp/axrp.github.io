@@ -5,7 +5,7 @@ date: 2023-05-01 17:30 -0700
 categories: episode
 ---
 
-<!-- [Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NTM1YTQ1MzAtMDVlNS00OTE4LThlMjgtOWRmZWUzMjM1Mjk0) -->
+[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ZTE5MjVkNzItODllYS00ZTliLTllMmYtYmI2ODI0NDhiNjI0)
 
 Lots of people in the field of machine learning study 'interpretability', developing tools that they say give us useful information about neural networks. But how do we know if meaningful progress is actually being made? What should we want out of these tools? In this episode, I speak to Stephen Casper about these questions, as well as about a benchmark he's co-developed to evaluate whether interpretability tools can find 'Trojan horses' hidden inside neural nets.
 
