@@ -665,8 +665,7 @@ Yeah. And in some ways, the [adversarial policies work for Go](https://goattack.
 **Stephen Casper:**
 Oh, absolutely.
 
-**Daniel Filan:**
-- it's the same kind of thing. I guess it seems less, I don't know, you're less worried about it from a safety perspective. Maybe it's less eye-catching for policy people, but on some level it's the same thing. Right?
+**Daniel Filan:** - it's the same kind of thing. I guess it seems less, I don't know, you're less worried about it from a safety perspective. Maybe it's less eye-catching for policy people, but on some level it's the same thing. Right?
 
 **Stephen Casper:**
 I agree. Yes. And actually this point you bring up about eye-catching to policy people... I don't know if this is an answer or a critique of the way you asked that question, but you asked if I had any interest in particular things, and I actually sort of have an explicit interest in less particular things in a certain sense. And by less particular, I just mean of less immediate relevance to what AI safety researchers immediately think about all the time. Concretely, I think interpretability, adversaries, red teaming, auditing this type of work could be useful for AI safety governance, even if it focuses on problems that are not immediately useful to AI safety. So AI safety people care about this stuff too, but lots of non-AI safety people are explicitly worried about making sure models are fair, they have social justice in the back of their mind.
