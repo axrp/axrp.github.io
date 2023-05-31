@@ -52,7 +52,7 @@ Yeah. I think I don't necessarily have a bright line around giant or drastic dro
 Yeah. When you say a 10% or 20% hit to human potential in expectation, do you mean if we definitely failed to align AI or do you mean we may or may not fail to align AI and overall that uncertainty equates to a 20%, or 10% to 20% hit?
 
 **Paul Christiano:**
-Yeah, that's unconditionally. So I think if you told me we definitely mess up alignment maximally then I'm more like, oh, now I are looking at a pretty big, close to 100% drop. I wouldn't go all the way to 100. It's not literally as bad probably as a barren earth, but it's pretty bad.
+Yeah, that's unconditionally. So I think if you told me we definitely mess up alignment maximally then I'm more like, oh, now we are looking at a pretty big, close to 100% drop. I wouldn't go all the way to 100. It's not literally as bad probably as a barren earth, but it's pretty bad.
 
 **Daniel Filan:**
 Okay. Yeah. Supposing AI goes poorly or there's some kind of existential risk posed by some kind of, I guess really bad AI, what do you imagine that looking like?
