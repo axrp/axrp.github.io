@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Survey, Store Closing, Patreon"
-date: 2023-02-28 16:30 -0800
+date: 2023-06-28 16:30 -0800
 categories: episode
 ---
 
