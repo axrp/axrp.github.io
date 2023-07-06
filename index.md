@@ -9,6 +9,6 @@ This website hosts transcripts of episodes of AXRP, pronounced axe-urp, short fo
 
 You can subscribe to AXRP by searching for it in your favourite podcast provider. To receive transcripts, you can subscribe to this website's [RSS feed](https://axrp.net/feed.xml). You can also follow AXRP on twitter at [@AXRPodcast](https://twitter.com/AXRPodcast). If you'd like to support the podcast, see [this page](supporting-the-podcast/) for how to do so.
 
-You can buy AXRP merch at [the AXRP store](https://store.axrp.net), such as t-shirts, hoodies, and laptop stickers. You can also [become a patron](https://www.patreon.com/axrpodcast) or donate on [ko-fi](https://ko-fi.com/axrpodcast).
+<!-- You can buy AXRP merch at [the AXRP store](https://store.axrp.net), such as t-shirts, hoodies, and laptop stickers.  -->You can [become a patron](https://www.patreon.com/axrpodcast) or donate on [ko-fi](https://ko-fi.com/axrpodcast).
 
 If you like AXRP, you might like its sister podcast, [The Filan Cabinet](https://thefilancabinet.com/), where I interview people about a wide range of topics I'm interested in.
