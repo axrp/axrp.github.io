@@ -292,7 +292,7 @@ This is about the limit of my foresight, because I started banging the drum abou
 I saw the episode existed. I haven't seen it.
 
 **Scott Aaronson:**
-It's worth it. It's a good episode about this exact problem where, I don't want not to give too much away, but the kids at South Park Elementary and the teachers come to rely more and more on ChatGPT to do all the things that they're supposed to be doing themselves, and then eventually...
+It's worth it. It's a good episode about this exact problem where, not to give too much away, but the kids at South Park Elementary and the teachers come to rely more and more on ChatGPT to do all the things that they're supposed to be doing themselves, and then eventually...
 
 **Daniel Filan:**
 Is ChatGPT a trademark? Did they have to get OpenAI's permission to make that episode?
