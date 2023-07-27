@@ -5,7 +5,7 @@ date: 2023-07-23 18:45 -0700
 categories: episode
 ---
 
-<!-- [Google Podcasts link](TODO) -->
+[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NDUzZTcwMzUtNThiOS00Y2NjLTkzOGUtNzJhZWM0MmFlNTA1)
 
 Is there some way we can detect bad behaviour in our AI system without having to know exactly what it looks like? In this episode, I speak with Mark Xu about mechanistic anomaly detection: a research direction based on the idea of detecting strange things happening in neural networks, in the hope that that will alert us of potential treacherous turns. We both talk about the core problems of relating these mechanistic anomalies to bad behaviour, as well as the paper "Formalizing the presumption of independence", which formulates the problem of formalizing heuristic mathematical reasoning, in the hope that this will let us mathematically define "mechanistic anomalies".
 
