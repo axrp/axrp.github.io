@@ -5,7 +5,7 @@ date: 2023-07-26 20:50 -0700
 categories: episode
 ---
 
-<!-- [Google Podcasts link](TODO) -->
+[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/MThlYjczZGItZmYxZS00MDU0LWJmOGYtZGRhNWM0ODkzNGM0)
 
 Recently, OpenAI made a splash by announcing a new "Superalignment" team. Lead by Jan Leike and Ilya Sutskever, the team would consist of top researchers, attempting to solve alignment for superintelligent AIs in four years by figuring out how to build a trustworthy human-level AI alignment researcher, and then using it to solve the rest of the problem. But what does this plan actually involve? In this episode, I talk to Jan Leike about the plan and the challenges it faces.
 
