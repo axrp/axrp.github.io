@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "23 - Mechanistic Anomaly Detectino with Mark Xu"
+title: "23 - Mechanistic Anomaly Detection with Mark Xu"
 date: 2023-07-23 18:45 -0700
 categories: episode
 ---
