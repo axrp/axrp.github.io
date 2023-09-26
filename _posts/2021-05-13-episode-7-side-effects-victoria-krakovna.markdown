@@ -5,7 +5,7 @@ date: 2021-05-13 21:00:00 -0800
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ZTQ1NjdlMWEtMmQzNC00Y2FlLThlZDMtYzgwZWJmNzRjMWFj)
+[YouTube link](https://www.youtube.com/watch?v=_XhFjlRMhdg&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=7)
 
 One way of thinking about how AI might pose an existential threat is by taking drastic actions to maximize its achievement of some objective function, such as taking control of the power supply or the world's computers. This might suggest a mitigation strategy of minimizing the degree to which AI systems have large effects on the world that are not absolutely necessary for achieving their objective. In this episode, Victoria Krakovna talks about her research on quantifying and minimizing side effects. Topics discussed include how one goes about defining side effects and the difficulties in doing so, her work using relative reachability and the ability to achieve future tasks as side effects measures, and what she thinks the open problems and difficulties are.
 

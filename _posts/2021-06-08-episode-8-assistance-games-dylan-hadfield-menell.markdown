@@ -5,7 +5,7 @@ date: 2021-06-08 16:30:00 -0700
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NTU4OTk4MTctNGY4NS00OWRkLThkYjMtMzdlMmVmNGJmZjZi)
+[YouTube link](https://www.youtube.com/watch?v=shaCQFlOGDQ&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=8)
 
 How should we think about the technical problem of building smarter-than-human AI that does what we want? When and how should AI systems defer to us? Should they have their own goals, and how should those goals be managed? In this episode, Dylan Hadfield-Menell talks about his work on assistance games that formalizes these questions. The first couple years of my PhD program included many long conversations with Dylan that helped shape how I view AI x-risk research, so it was great to have another one in the form of a recorded interview.
 

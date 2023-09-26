@@ -4,7 +4,7 @@ title:  "5 - Infra-Bayesianism with Vanessa Kosoy"
 date:   2021-03-09 20:30:00 -0800
 categories: episode
 ---
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/YjExOTA0NmItMDBmZC00Yzc5LTgwMGYtOTRkNDkyMzcwZDk3)
+[YouTube link](https://www.youtube.com/watch?v=HB7v6brXsfI&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=5)
 
 The theory of sequential decision-making has a problem: how can we deal with situations where we have some hypotheses about the environment we're acting in, but its exact form might be outside the range of possibilities we can possibly consider? Relatedly, how do we deal with situations where the environment can simulate what we'll do in the future, and put us in better or worse situations now depending on what we'll do then? Today's episode features Vanessa Kosoy talking about infra-Bayesianism, the mathematical framework she developed with Alex Appel that modifies Bayesian decision theory to succeed in these types of situations.
 

@@ -5,7 +5,7 @@ date: 2021-04-08 17:15 -0400
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NGY3ZTBiMzgtYWM5Ny00NDZmLTgxZmQtOTc1M2VhMGVkMzQz)
+[YouTube link](https://www.youtube.com/watch?v=ga8_okcLAes&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=6)
 
 One proposal to train AIs that can be useful is to have ML models debate each other about the answer to a human-provided question, where the human judges which side has won. In this episode, I talk with Beth Barnes about her thoughts on the pros and cons of this strategy, what she learned from seeing how humans behaved in debate protocols, and how a technique called imitative generalization can augment debate. Those who are already quite familiar with the basic proposal might want to skip past the explanation of debate to 13:00, "what problems does it solve and does it not solve".
 

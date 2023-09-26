@@ -4,7 +4,7 @@ title:  "3 - Negotiable Reinforcement Learning with Andrew Critch"
 date:   2020-12-10 21:05:00 -0800
 categories: episode
 ---
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ZmFmZmFkMTctZmJhZC00ODRhLThhZGUtNjk1NGU1ZWI2NDJi)
+[YouTube link](https://www.youtube.com/watch?v=dEwr00sVELI&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=3)
 
 In this episode, I talk with Andrew Critch about negotiable reinforcement learning: what happens when two people (or organizations, or what have you) who have different beliefs and preferences jointly build some agent that will take actions in the real world. In the paper we discuss, it's proven that the only way to make such an agent Pareto optimal - that is, have it not be the case that there's a different agent that both people would prefer to use instead - is to have it preferentially optimize the preferences of whoever's beliefs were more accurate. We discuss his motivations for working on the problem and what he thinks about it.
 

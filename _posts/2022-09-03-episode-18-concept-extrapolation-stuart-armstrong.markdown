@@ -5,7 +5,7 @@ date: 2022-09-03 16:00 -0700
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/YmE3NDc2ZmYtMmZlMy00YmEzLThjODQtNTBiYzYwMjQ0NGVj)
+[YouTube link](https://www.youtube.com/watch?v=P8EgpMfej5s&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=18)
 
 Concept extrapolation is the idea of taking concepts an AI has about the world - say, "mass" or "does this picture contain a hot dog" - and extending them sensibly to situations where things are different - like learning that the world works via special relativity, or seeing a picture of a novel sausage-bread combination. For a while, Stuart Armstrong has been thinking about concept extrapolation and how it relates to AI alignment. In this episode, we discuss where his thoughts are at on this topic, what the relationship to AI alignment is, and what the open questions are.
 

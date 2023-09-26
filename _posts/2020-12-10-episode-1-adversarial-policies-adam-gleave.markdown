@@ -4,7 +4,7 @@ title:  "1 - Adversarial Policies with Adam Gleave"
 date:   2020-12-10 20:50:00 -0800
 categories: episode
 ---
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ZjgxZWU3YjYtMTdmMS00NmQ1LWExZjctZGY0NGQzZGJlNjBi)
+[YouTube link](https://www.youtube.com/watch?v=8OkkBaPazl8&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=1)
 
 In this episode, Adam Gleave and I talk about adversarial policies. Basically, in current reinforcement learning, people train agents that act in some kind of environment, sometimes an environment that contains other agents. For instance, you might train agents that play sumo with each other, with the objective of making them generally good at sumo. Adam's research looks at the case where all you're trying to do is make an agent that defeats one specific other agents: how easy is it, and what happens? He discovers that often, you can do it pretty easily, and your agent can behave in a very silly-seeming way that nevertheless happens to exploit some 'bug' in the opponent. We talk about the experiments he ran, the results, and what they say about how we do reinforcement learning.
 

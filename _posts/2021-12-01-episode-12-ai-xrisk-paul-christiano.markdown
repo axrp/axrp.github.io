@@ -5,7 +5,7 @@ date: 2021-12-01 18:10 -0800
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NmM5NzI3MjUtYWU3MC00YjgwLTg0MTgtODM2MzgxMmNlZGJk)
+[YouTube link](https://www.youtube.com/watch?v=3L4czdIa8Tg&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=12)
 
 Why would advanced AI systems pose an existential risk, and what would it look like to develop safer systems? In this episode, I interview Paul Christiano about his views of how AI could be so dangerous, what bad AI scenarios could look like, and what he thinks about various techniques to reduce this risk.
 

@@ -5,7 +5,7 @@ date: 2021-07-23 15:00 -0700
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/MDQ5OGFmYzgtMWUzNi00NTVkLWI3NjAtYWQ4ZmEyMDRkNTNh)
+[YouTube link](https://www.youtube.com/watch?v=yalAfcqELls&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=10)
 
 When going about trying to ensure that AI does not cause an existential catastrophe, it's likely important to understand how AI will develop in the future, and why exactly it might or might not cause such a catastrophe. In this episode, I interview Katja Grace, researcher at AI Impacts, who's done work surveying AI researchers about when they expect superhuman AI to be reached, collecting data about how rapidly AI tends to progress, and thinking about the weak points in arguments that AI could be catastrophic for humanity.
 

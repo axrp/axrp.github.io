@@ -5,7 +5,7 @@ date: 2023-06-15 11:45 -0700
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ODVlM2RkNmItMTdkZi00MWYwLTg2YjAtOWIxY2JkOTBlYjgw)
+[YouTube link](https://www.youtube.com/watch?v=o-Qc_jiZTQQ&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=22)
 
 What can we learn about advanced deep learning systems by understanding how humans learn and form values over their lifetimes? Will superhuman AI look like ruthless coherent utility optimization, or more like a mishmash of contextually activated desires? This episode's guest, Quintin Pope, has been thinking about these questions as a leading researcher in the shard theory community. We talk about what shard theory is, what it says about humans and neural networks, and what the implications are for making AI safe.
 

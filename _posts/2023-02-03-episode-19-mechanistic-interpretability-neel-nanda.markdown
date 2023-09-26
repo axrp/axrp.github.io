@@ -5,7 +5,7 @@ date: 2023-02-03 18:50 -0800
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/OTg3NjkyYjItZGFmNS00MzA2LTgzY2QtYzY0MDlkNThmNTIy)
+[YouTube link](https://www.youtube.com/watch?v=3YbE7zybc5k&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=19)
 
 How good are we at understanding the internal computation of advanced machine learning models, and do we have a hope at getting better? In this episode, Neel Nanda talks about the sub-field of mechanistic interpretability research, as well as papers he's contributed to that explore the basics of transformer circuits, induction heads, and grokking.
 

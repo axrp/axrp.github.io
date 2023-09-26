@@ -4,7 +4,7 @@ title:  "4 - Risks from Learned Optimization with Evan Hubinger"
 date:   2021-02-17 15:15:00 -0800
 categories: episode
 ---
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NmY0Y2NjODMtNjc2NS00OWZmLWFmNWUtNWIzOWQxMjZmN2Vm)
+[YouTube link](https://www.youtube.com/watch?v=b1nCGAzCrho&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=4)
 
 In machine learning, typically optimization is done to produce a model that performs well according to some metric. Today's episode features Evan Hubinger talking about what happens when the learned model itself is doing optimization in order to perform well, how the goals of the learned model could differ from the goals we used to select the learned model, and what would happen if they did differ.
 

@@ -5,7 +5,7 @@ date: 2023-04-11 14:30 -0700
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NTM1YTQ1MzAtMDVlNS00OTE4LThlMjgtOWRmZWUzMjM1Mjk0)
+[YouTube link](https://www.youtube.com/watch?v=ZZ2x-O0mjBg&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=20)
 
 How should we scientifically think about the impact of AI on human civilization, and whether or not it will doom us all? In this episode, I speak with Scott Aaronson about his views on how to make progress in AI alignment, as well as his work on watermarking the output of language models, and how he moved from a background in quantum complexity theory to working on AI.
 

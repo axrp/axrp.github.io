@@ -5,7 +5,7 @@ date: 2022-03-30 22:15 -0700
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/OTlmYzM1ZjEtMDFkMi00ZTExLWExYjEtNTYwOTg2ZWNhOWNi)
+[YouTube link](https://www.youtube.com/watch?v=DxwXLCQY1ns&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=13)
 
 How should we think about artificial general intelligence (AGI), and the risks it might pose? What constraints exist on technical solutions to the problem of aligning superhuman AI systems with human intentions? In this episode, I talk to Richard Ngo about his report analyzing AGI safety from first principles, and recent conversations he had with Eliezer Yudkowsky about the difficulty of AI alignment.
 

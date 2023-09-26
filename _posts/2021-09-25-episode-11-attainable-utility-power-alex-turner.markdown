@@ -5,7 +5,7 @@ date: 2021-09-25 14:00 -0700
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/OGFiMTdiNjYtMjEzMS00YTBmLTg2YTgtYTQ1ZjdmZmM4Yjk0)
+[YouTube link](https://www.youtube.com/watch?v=U9edwa68CYg&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=11)
 
 Many scary stories about AI involve an AI system deceiving and subjugating humans in order to gain the ability to achieve its goals without us stopping it. This episode's guest, Alex Turner, will tell us about his research analyzing the notions of "attainable utility" and "power" that underlie these stories, so that we can better evaluate how likely they are and how to prevent them.
 

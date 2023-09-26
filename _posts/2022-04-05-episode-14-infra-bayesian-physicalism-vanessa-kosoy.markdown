@@ -5,7 +5,7 @@ date: 2022-04-05 16:00 -0700
 categories: episode
 ---
 
-[Google Podcasts link](https://podcasts.google.com/feed/aHR0cHM6Ly9heHJwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/YjI2MDQ0YTUtYjAyMy00YmI3LWE3MWMtYmFhMTU3MmM4MzJl)
+[YouTube link](https://www.youtube.com/watch?v=XyXn7Hj2oYc&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=14)
 
 Late last year, Vanessa Kosoy and Alexander Appel published some research under the heading of "Infra-Bayesian physicalism". But wait - what was infra-Bayesianism again? Why should we care? And what does any of this have to do with physicalism? In this episode, I talk with Vanessa Kosoy about these questions, and get a technical overview of how infra-Bayesian physicalism works and what its implications are.
 
