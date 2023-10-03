@@ -5,7 +5,7 @@ date: 2023-10-03 14:40 -0700
 categories: episode
 ---
 
-<!-- [YouTube link](https://www.youtube.com/watch?v=Uk6-Rw5N_Dg&list=PLmjaTS1-AiDeqUuaJjasfrM6fjSszm9pK&index=24) -->
+[YouTube link](https://youtu.be/0JkaOAzDfgE)
 
 Imagine a world where there are many powerful AI systems, working at cross purposes. You could suppose that different governments use AIs to manage their militaries, or simply that many powerful AIs have their own wills. At any rate, it seems valuable for them to be able to cooperatively work together and minimize pointless conflict. How do we ensure that AIs behave this way - and what do we need to learn about how rational agents interact to make that more clear? In this episode, I'll be speaking with Caspar Oesterheld about some of his research on this very topic.
 
