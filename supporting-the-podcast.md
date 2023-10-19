@@ -10,6 +10,6 @@ Another way is to email me at <feedback@axrp.net> and tell me about what you thi
 
 <!-- You can also buy AXRP merchandise at [the AXRP store](https://store.axrp.net), such as t-shirts, hoodies, and laptop stickers. -->
 
-Finally, you can also support the podcast financially. Currently, the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future) supports the podcast, but viewer support lets me (and funders) know if people are getting value out of the podcast, as well as diversifying our funding sources. Ways you can do this:
+Finally, you can also support the podcast financially. Currently, the [Long Term Future Fund](https://funds.effectivealtruism.org/funds/far-future) and [Lightspeed Grants](https://lightspeedgrants.org/) support the podcast, but viewer support lets me (and funders) know if people are getting value out of the podcast, as well as diversifying our funding sources. Ways you can do this:
 - Becoming a monthly subscriber on [Patreon](https://www.patreon.com/axrpodcast), potentially getting perks like seeing my episode prep notes or being thanked at the end of episodes.
 - Making a one-off donation on [ko-fi](https://ko-fi.com/axrpodcast).
