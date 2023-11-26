@@ -7,6 +7,8 @@ categories: episode
 
 <!-- [YouTube link](https://youtu.be/0JkaOAzDfgE) -->
 
+[YouTube link](https://youtu.be/bYOB3CXAAaE)
+
 The events of this year have highlighted important questions about the governance of artificial intelligence. For instance, what does it mean to democratize AI? And how should we balance benefits and dangers of open-sourcing powerful AI systems such as large language models? In this episode, I speak with Elizabeth Seger about her research on these questions.
 
 Topics we discuss:
