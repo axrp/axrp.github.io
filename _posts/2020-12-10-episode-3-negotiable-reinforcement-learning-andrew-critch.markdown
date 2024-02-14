@@ -186,7 +186,7 @@ Okay. Yeah, so discussing this theorem. So if I think about institutions where p
 I take exception to the claim that people are broadly okay with the stock market, but I'll agree that the stock market is, in fact still happening.
 
 **Daniel Filan:**
-Yeah, I think people are okay with some individual trades. If you and I trade in equity, the person who knows more about the value of that equity in the future has an edge on that trade. I guess I haven't seen polling, my assumption is that most people are okay with the idea that I can trade in equity with you, but maybe you don't think that.
+Yeah, I think people are okay with some individual trades. If you and I trade an equity, the person who knows more about the value of that equity in the future has an edge on that trade. I guess I haven't seen polling, my assumption is that most people are okay with the idea that I can trade in equity with you, but maybe you don't think that.
 
 **Andrew Critch:**
 Well. Claims about what most people think are okay are a little bit dangerous. And I'm a little bit uncomfortable making them.
