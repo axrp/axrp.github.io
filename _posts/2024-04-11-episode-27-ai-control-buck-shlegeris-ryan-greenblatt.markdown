@@ -5,7 +5,7 @@ date: 2024-04-11 14:00 -0700
 categories: episode
 ---
 
-<!-- [YouTube link](https://youtu.be/gQbCO6zGRiI) -->
+[YouTube link](https://youtu.be/gQbCO6zGRiI)
 
 A lot of work to prevent AI existential risk takes the form of ensuring that AIs don't want to cause harm or take over the world---or in other words, ensuring that they're aligned. In this episode, I talk with Buck Shlegeris and Ryan Greenblatt about a different approach, called "AI control": ensuring that AI systems couldn't take over the world, even if they were trying to.
 
