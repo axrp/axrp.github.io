@@ -1473,3 +1473,6 @@ Sure, thanks.
 
 **Daniel Filan:**
 This episode is edited by Jack Garrett, and Amber Dawn Ace helped with transcription. The opening and closing themes are also by Jack Garrett. This episode was filmed at a location provided by [Lightcone Infrastructure](https://www.lightconeinfrastructure.com/). Financial support for this episode was provided by the [Long-Term Future Fund](https://funds.effectivealtruism.org/funds/far-future) and [Lightspeed Grants](https://lightspeedgrants.org/), along with [patrons](https://patreon.com/axrpodcast) such as Alexey Malafeev and Tor Barstad. To read a transcript of this episode or to learn how to [support the podcast yourself](https://axrp.net/supporting-the-podcast/), you can visit [axrp.net](https://axrp.net). Finally, if you have any feedback about this podcast, you can email me at <feedback@axrp.net>.
+
+Test: CO₂
+
