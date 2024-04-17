@@ -5,7 +5,7 @@ date: 2024-04-17 14:30 -0700
 categories: episode
 ---
 
-<!-- [YouTube link](https://youtu.be/hdQDZo7jGBY) -->
+[YouTube link](https://youtu.be/hdQDZo7jGBY)
 
 How should the law govern AI? Those concerned about existential risks often push either for bans or for regulations meant to ensure that AI is developed safely - but another approach is possible. In this episode, Gabriel Weil talks about his proposal to modify tort law to enable people to sue AI companies for disasters that are "nearly catastrophic".
 
