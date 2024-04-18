@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "28 - Tort Law for AI Risk with Gabriel Weil"
+title: "28 - Suing Labs for AI Risk with Gabriel Weil"
 date: 2024-04-17 14:30 -0700
 categories: episode
 ---
