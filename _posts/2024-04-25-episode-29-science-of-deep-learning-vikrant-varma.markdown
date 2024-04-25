@@ -5,7 +5,7 @@ date: 2024-04-25 12:00 -0700
 categories: episode
 ---
 
-<!-- [YouTube link](https://youtu.be/hdQDZo7jGBY) -->
+[YouTube link](https://youtu.be/4WNWeUQ7Hfc)
 
 In 2022, it was announced that a fairly simple method can be used to extract the true beliefs of a language model on any given topic, without having to actually understand the topic at hand. Earlier, in 2021, it was announced that neural networks sometimes 'grok': that is, when training them on certain tasks, they initially memorize their training data (achieving their training goal in a way that doesn't generalize), but then suddenly switch to understanding the 'real' solution in a way that generalizes. What's going on with these discoveries? Are they all they're cracked up to be, and if so, how are they working? In this episode, I talk to Vikrant Varma about his research getting to the bottom of these questions.
 
