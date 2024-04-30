@@ -5,7 +5,7 @@ date: 2024-04-30 13:50 -0700
 categories: episode
 ---
 
-<!-- [YouTube link](https://youtu.be/4WNWeUQ7Hfc) -->
+[YouTube link](https://youtu.be/l1yiFToBAtM)
 
 Top labs use various forms of "safety training" on models before their release to make sure they don't do nasty stuff - but how robust is that? How can we ensure that the weights of powerful AIs don't get leaked or stolen? And what can AI even do these days? In this episode, I speak with Jeffrey Ladish about security and AI.
 
