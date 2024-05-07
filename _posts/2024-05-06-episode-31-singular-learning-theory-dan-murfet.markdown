@@ -5,7 +5,9 @@ date: 2024-05-06 20:40 -0700
 categories: episode
 ---
 
-<!-- [YouTube link](https://youtu.be/l1yiFToBAtM) -->
+[Apple Podcasts link](https://podcasts.apple.com/us/podcast/31-singular-learning-theory-with-daniel-murfet/id1544393261?i=1000654760216)
+
+<!-- [YouTube link](https://youtu.be/SW-wrKemfwk) -->
 
 What's going on with deep learning? What sorts of models get learned, and what do the learning dynamics? Singular learning theory is a theory of Bayesian statistics broad enough in scope to encompass deep neural networks that may help answer these questions. In this episode, I speak with Daniel Murfet about this research program and what it tells us.
 
