@@ -9,7 +9,7 @@ categories: episode
 
 <!-- [YouTube link](https://youtu.be/SW-wrKemfwk) -->
 
-What's going on with deep learning? What sorts of models get learned, and what do the learning dynamics? Singular learning theory is a theory of Bayesian statistics broad enough in scope to encompass deep neural networks that may help answer these questions. In this episode, I speak with Daniel Murfet about this research program and what it tells us.
+What's going on with deep learning? What sorts of models get learned, and what are the learning dynamics? Singular learning theory is a theory of Bayesian statistics broad enough in scope to encompass deep neural networks that may help answer these questions. In this episode, I speak with Daniel Murfet about this research program and what it tells us.
 
 Topics we discuss:
  - [What is singular learning theory?](#what-is-slt)
