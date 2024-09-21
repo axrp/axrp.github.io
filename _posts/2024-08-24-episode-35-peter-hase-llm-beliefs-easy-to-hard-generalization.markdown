@@ -7,7 +7,7 @@ categories: episode
 
 [YouTube link](https://youtu.be/tEge5uo4E-A)
 
-How do we figure out what large language models believe? In fact, do they even have beliefs? Do those beliefs have locations, and if so, can we edit those locations to change the beliefs? Also, how are we going to get AI to perform tasks so hard that we can't figure out if they succeeded at them? In this episode, I chat to Peter Hase about his research into these questions.
+How do we figure out what large language models believe? In fact, do they even have beliefs? Do those beliefs have locations, and if so, can we edit those locations to change the beliefs? Also, how are we going to get AI to perform tasks so hard that we can't figure out if they succeeded at them? In this episode, I chat with Peter Hase about his research into these questions.
 
 Topics we discuss:
   - [NLP and interpretability](#nlp-and-interpretability)
