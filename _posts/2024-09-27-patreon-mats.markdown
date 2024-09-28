@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Patreon, MATS"
+title: "New Patreon tiers + MATS applications"
 date: 2024-09-27 16:35 -0700
 categories: episode
 ---
