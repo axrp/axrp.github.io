@@ -49,7 +49,7 @@ Like you mentioned, the bulk of your work has been in interpretability. What got
 That was also an interest that developed in undergrad. So I think a long time ago, there were many different arguments put forth for why interpretability was a good thing to study. At the time, there was definitely a very intuitive draw, and there still is an intuitive draw, that it's just good to know how these things work. It's just good to know how AI systems work, how language models work.
 
 (00:02:47):
-They were doing increasingly interesting things. At the time, there was so much progress in vision. This was 2018, so there'd been a lot of progress in RL. Language models -t I think by 2018, GPT-1 was out, and I think GPT-2 was coming out in spring 2018 or '19. It was just very clear that these systems were making a lot of progress and doing fundamentally interesting things. From a safety perspective, it's like, "Gosh, we should know how they work. We should be able to explain their decision-making process."
+They were doing increasingly interesting things. At the time, there was so much progress in vision. This was 2018, so there'd been a lot of progress in RL. Language models - I think by 2018, GPT-1 was out, and I think GPT-2 was coming out in spring 2018 or '19. It was just very clear that these systems were making a lot of progress and doing fundamentally interesting things. From a safety perspective, it's like, "Gosh, we should know how they work. We should be able to explain their decision-making process."
 
 **Daniel Filan** (00:03:25):
 This is kind of a broad question, but how would you say interpretability is doing as a subfield?
