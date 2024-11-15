@@ -20,7 +20,7 @@ Topics we discuss:
   - [Multi-agent systems](#multi-agent-systems)
 
 **Daniel Filan** (00:09):
-Hello, everyone. This is one of a series of short interviews that I've been conducting at the Bay Area [Alignment Workshop](https://www.alignment-workshop.com/), which is run by [FAR.AI](https://far.ai/). Links to what we're discussing, as usual, are in the description. A transcript is, as usual, available at axrp.net, and as usual, if you want to support the podcast, you can do so at patreon.com/axrpodcast. Well, let's continue to the interview.
+Hello, everyone. This is one of a series of short interviews that I've been conducting at the Bay Area [Alignment Workshop](https://www.alignment-workshop.com/), which is run by [FAR.AI](https://far.ai/). Links to what we're discussing, as usual, are in the description. A transcript is, as usual, available at axrp.net, and as usual, if you want to support the podcast, you can do so at [patreon.com/axrpodcast](https://www.patreon.com/axrpodcast). Well, let's continue to the interview.
 
 (00:28):
 Yeah, so Zhijing, thanks for coming on to the podcast.
