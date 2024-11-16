@@ -7,7 +7,7 @@ categories: episode
 
 [YouTube link](https://youtu.be/1OQyGH-IlM4)
 
-Traffic lines, street lights, and licence plates are examples of infrastructure used to ensure that roads operate smoothly. In this episode, Alan Chan talks about using similar interventions to help avoid bad outcomes from the deployment of AI agents.
+Road lines, street lights, and licence plates are examples of infrastructure used to ensure that roads operate smoothly. In this episode, Alan Chan talks about using similar interventions to help avoid bad outcomes from the deployment of AI agents.
 
 Topics we discuss:
   - [How the Alignment Workshop is](#how-aw-is)
