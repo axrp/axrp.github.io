@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "39 - Evan Hubinger on Model Organisms of Misalignment"
-date: 2024-11-22 20:27 -0800
+date: 2025-11-22 20:27 -0800
 categories: episode
 ---
 
