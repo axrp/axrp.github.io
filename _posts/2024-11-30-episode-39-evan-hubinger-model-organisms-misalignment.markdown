@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "39 - Evan Hubinger on Model Organisms of Misalignment"
-date: 2025-11-22 20:27 -0800
+date: 2024-11-30 21:45 -0800
 categories: episode
 ---
 
-[YouTube link](https://youtu.be/m7xayHQBwGY)
+[YouTube link](https://youtu.be/FsGJyTfOZrs)
 
 The 'model organisms of misalignment' line of research creates AI models that exhibit various types of misalignment, and studies them to try to understand how the misalignment occurs and whether it can be somehow removed. In this episode, Evan Hubinger talks about two papers he's worked on at Anthropic under this agenda: "Sleeper Agents" and "Sycophancy to Subterfuge".
 
@@ -614,4 +614,4 @@ Awesome. So, yeah. [Anthropic blog](https://www.anthropic.com/news), [LessWrong]
 Thank you so much for having me.
 
 **Daniel Filan:**
-This episode is edited by Kate Brunotts, and Amber Dawn Ace helped with transcription. The opening and closing themes are by Jack Garrett. It was recorded at [Constellation](https://www.constellation.org/), an AI safety research center in Berkeley, California. Financial support for the episode was provided by the [Long-Term Future Fund](https://funds.effectivealtruism.org/funds/far-future), along with [patrons](https://patreon.com/axrpodcast) such as Alexey Malafeev. To read transcripts, you can visit axrp.net. You can also become a patron at patreon.com/axrpodcast or give a one-off donation at Ko-fi.com/axrpodcast. Finally, if you have any feedback about this podcast, you can email me at <feedback@axrp.net>.
+Special thanks to Misha Gurevich, also known as Drethelin. This episode is edited by Kate Brunotts, and Amber Dawn Ace helped with transcription. The opening and closing themes are by Jack Garrett. This episode was recorded at [Constellation](https://www.constellation.org/), an AI safety research center in Berkeley, California. Financial support for the episode was provided by the [Long-Term Future Fund](https://funds.effectivealtruism.org/funds/far-future), along with [patrons](https://patreon.com/axrpodcast) such as Alexey Malafeev. To read transcripts, you can visit [axrp.net](https://axrp.net/). You can also become a patron at [patreon.com/axrpodcast](https://patreon.com/axrpodcast) or give a one-off donation at [ko-fi.com/axrpodcast](https://ko-fi.com/axrpodcast). Finally, if you have any feedback about this podcast, you can email me at <feedback@axrp.net>.
