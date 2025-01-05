@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "38.4 - Shakeel Hashim on AI Journalism"
-date: 2025-01-04 16:25 -0800
+date: 2025-01-04 16:05 -0800
 categories: episode
 ---
 
