@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "38.6 - Joel Lehman on Positive Visions of AI"
-date: 2025-01-24 15:00 -0800
+date: 2025-01-24 14:58 -0800
 categories: episode
 ---
 
