@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "40 - Jason Gross on Compact Proofs and Interpretability"
-date: 2025-03-28 11:20 -0800
+date: 2025-03-28 11:30 -0700
 categories: episode
 ---
 
