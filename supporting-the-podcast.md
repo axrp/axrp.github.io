@@ -6,7 +6,7 @@ permalink: /supporting-the-podcast/
 
 There are a few ways to support the podcast. The most simple one is to subscribe using your favourite podcasting app (including [YouTube](https://www.youtube.com/channel/UCIAzAR5dG7j_Kcvwjh7SQpg) and [Spotify](https://open.spotify.com/show/2HwW0U4nTGjQbqm4dZpXxD)), and tell friends who might enjoy the podcast about it.
 
-Another way is to email me at <feedback@axrp.net> or leave an anonymous note at [this link](https://www.admonymous.co/axrpodcast) and tell me about what you think about the podcast and how it could be better. The current listener base is small enough that your voice can really be informative about how I can improve the show!
+Another way is to email me at <feedback@axrp.net> or leave anonymous feedback about the most recent episode you listened to at [this link](axrp.fyi) and tell me about what you think about the podcast and how it could be better. The current listener base is small enough that your voice can really be informative about how I can improve the show!
 
 <!-- You can also buy AXRP merchandise at [the AXRP store](https://store.axrp.net), such as t-shirts, hoodies, and laptop stickers. -->
 
