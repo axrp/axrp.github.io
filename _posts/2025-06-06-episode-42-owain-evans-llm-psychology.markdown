@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "42 - Owain Evans on LLM Psychology"
-date: 2025-06-02 13:10 -0700
+date: 2025-06-06 13:14 -0700
 categories: episode
 ---
 
