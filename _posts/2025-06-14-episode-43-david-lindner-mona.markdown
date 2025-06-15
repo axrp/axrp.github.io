@@ -26,7 +26,7 @@ Hello, everybody. In this episode I'll be speaking with David Lindner. David is 
 **David Lindner** (00:00:29):
 Yeah, excited to be here.
 
-## What MONA is <a name="whats-mona"
+## What MONA is <a name="whats-mona"></a>
 
 **Daniel Filan** (00:00:29):
 Yeah. So I guess in this episode we're going to be chatting about your paper [MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking](https://arxiv.org/abs/2501.13011). So this is by Sebastian Farquhar, Vikrant Varma, yourself, David Elson, Caleb Biddulph, Ian Goodfellow, and Rohin Shah. So yeah, to kick us off: what's the idea of this paper? What does it do?
