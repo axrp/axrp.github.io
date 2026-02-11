@@ -14,7 +14,7 @@ If you like AXRP, you might like its sister podcast, [The Filan Cabinet](https:/
 
 You might also enjoy the game ["Guess That AXRP"](https://guess-that-axrp.onrender.com), which involves guessing which episode a randomly selected sentence has come from.
 
-To leave feedback about the podcast, you can email me at <feedback@axrp.net> or leave an anonymous note at [this link](https://www.admonymous.co/axrpodcast).
+To leave feedback about the podcast, you can email me at <feedback@axrp.net> or leave a note at [axrp.fyi](axrp.fyi).
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/) -->
 
