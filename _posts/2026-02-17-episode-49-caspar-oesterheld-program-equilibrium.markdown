@@ -1046,9 +1046,4 @@ Great. Cool. So there'll be links to that in the transcript. Caspar, thanks very
 Thanks so much for having me.
 
 **Daniel Filan** (02:30:57):
-This episode is edited by Kate Brunotts, and Amber Dawn Ace helped with the transcription. The opening and closing themes are by Jack Garrett. This episode was recorded at FAR.Labs. Financial support for the episode was provided by the Long-Term Future Fund, along with patrons such as Alexey Malafeev. You can become a patron yourself at patreon.com/axrpodcast or give a one-off donation at ko-fi.com/axrpodcast. Finally, if you have any feedback about the podcast, you can fill out a super short survey at axrp.fyi.
-
-
-
-**Daniel Filan** (02:04:21):
-This episode is edited by Kate Brunotts, and Amber Dawn Ace helped with transcription. The opening and closing themes are by Jack Garrett. This episode was recorded at [FAR.Labs](https://far.ai/programs/far-labs), and the podcast is supported by [patrons](https://patreon.com/axrpodcast) such as Alexey Malafeev. To read the transcript, you can visit [axrp.net](https://axrp.net). You can also become a patron at [patreon.com/axrpodcast](https://patreon.com/axrpodcast) or give a one-off donation at [ko-fi.com/axrpodcast](https://ko-fi.com/axrpodcast). Finally, you can leave your thoughts on this episode at [axrp.fyi](axrp.fyi).
+This episode is edited by Kate Brunotts, and Amber Dawn Ace helped with the transcription. The opening and closing themes are by Jack Garrett. This episode was recorded at [FAR.Labs](https://far.ai/programs/far-labs). Financial support for the episode was provided by the [Long-Term Future Fund](https://funds.effectivealtruism.org/funds/far-future), along with [patrons](https://patreon.com/axrpodcast) such as Alexey Malafeev. You can become a patron yourself at [patreon.com/axrpodcast](https://patreon.com/axrpodcast) or give a one-off donation at [ko-fi.com/axrpodcast](https://ko-fi.com/axrpodcast). Finally, if you have any feedback about the podcast, you can fill out a super short survey at [axrp.fyi](axrp.fyi).
