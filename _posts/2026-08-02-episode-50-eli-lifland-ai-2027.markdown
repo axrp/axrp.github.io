@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "50 - Eli Lifland on AI 2027"
-date: 2026-08-02 17:00 -0800
+date: 2026-08-02 17:30 -0700
 categories: episode
 ---
 
