@@ -1332,7 +1332,7 @@ I don't know. That seems---
 Or you just pick the subset of them that evolved sort of analogously to [how] we did, right?
 
 **Guive Assadi** (01:27:12):
-What about the ones that hate all that shit a lot? And so then they'll punish us for doing those things. My take on this is that [Roko's basilisk](https://en.wikipedia.org/wiki/Roko%27s_basilisk) is actually very important because it explains why these ideas make no sense. It's like a reductio of this stuff.
+What about the ones that hate all that [redacted] a lot? And so then they'll punish us for doing those things. My take on this is that [Roko's basilisk](https://en.wikipedia.org/wiki/Roko%27s_basilisk) is actually very important because it explains why these ideas make no sense. It's like a reductio of this stuff.
 
 (01:27:26):
 So, Roko's basilisk is the idea of an evil AI in the future that unless you help create it, will torture you. And there's a lot of misinformation on the internet that AI safety people are seriously concerned about Roko's basilisk. Roko's basilisk was causally upstream of [the relationship between Grimes and Elon Musk](https://en.wikipedia.org/wiki/Grimes#Relationships), but---
